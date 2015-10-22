@@ -1,0 +1,36 @@
+# Latex files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+
+# Auto generated latex files
+training_data/template.fdb_latexmk
+training_data/template.fls
+training_data/template.pdf
+training_data/template.ps
+
+# Other temp files
+*.swp
+
+
+
